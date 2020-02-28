@@ -7,7 +7,7 @@ function getVid(){
 	console.log(playButton);
 	console.log(pauseButton);
 	playButton.innerHTML = '<img src="images/playbutton.png">Play Video';
-	pauseButton.innerHTML = '<img src="images/pauseButton.png">Pause Video';
+	pauseButton.innerHTML = '<img src="images/pausebutton.png">Pause Video';
 }
 
 function playVid() { 
